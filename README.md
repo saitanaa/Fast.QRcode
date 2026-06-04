@@ -1,6 +1,6 @@
 # Fast.QRcode
 
-A quick and easy tool for instantly generating a QR code in `.png` format from a website
+## A quick and easy tool for instantly generating a QR code in `.png` format from a website
 
 <img width="370" height="370" alt="Fast-QR_CODE" src="https://github.com/user-attachments/assets/1efd96d2-eb5c-4fe0-a6ce-9ea3b20bb224" />
 
